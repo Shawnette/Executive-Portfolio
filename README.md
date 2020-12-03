@@ -1,2 +1,1 @@
-# Executive-Portfolio
-Technical Project Management Portfolio
+Thinkful Capstone 3 Portfolio
